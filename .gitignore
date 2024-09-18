@@ -1,0 +1,20 @@
+# Ignore Django's database files
+db.sqlite3
+
+# Ignore compiled Python bytecode files
+*.pyc
+
+# Ignore local development settings
+local_settings.py
+
+# Ignore Django's temporary files and folders
+__pycache__/
+.DS_Store
+
+# Ignore IDE-specific files
+.idea/
+
+# Ignore build artifacts
+dist/
+build/
+.pytest_cache/
